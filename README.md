@@ -27,7 +27,7 @@
 5. 🔗 [Assets](#links)
 6. 🚀 [More](#more)
 
-## 🚨 Tutorial
+## 🚨 Tutorial-
 
 This repository contains the code corresponding to an in-depth **GSAP Course** available on <a href="https://jsmastery.com/" target="_blank"><b>jsmastery.com</b></a>.
 
